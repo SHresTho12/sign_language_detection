@@ -1,0 +1,44 @@
+item { 
+	name:'thumbsup'
+	id:1
+}
+item { 
+	name:'thumbsdown'
+	id:2
+}
+item { 
+	name:'thankyou'
+	id:3
+}
+item { 
+	name:'livelong'
+	id:4
+}
+item { 
+	name:'0'
+	id:5
+}
+item { 
+	name:'1'
+	id:6
+}
+item { 
+	name:'2'
+	id:7
+}
+item { 
+	name:'3'
+	id:8
+}
+item { 
+	name:'4'
+	id:9
+}
+item { 
+	name:'5'
+	id:10
+}
+item { 
+	name:'6'
+	id:11
+}
