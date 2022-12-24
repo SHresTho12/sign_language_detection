@@ -1,5 +1,7 @@
 /mlproject
-/Tensorflow
+/Tensorflow/workspace/images
+/Tensorflow/labelimg
+/Tensorflow/scripts
 /.ipynb_checkpoints
 /ipynb_checkpoints
 .ipynb_checkpoints
